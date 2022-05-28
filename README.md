@@ -1,5 +1,5 @@
 <h1>IPM Sistemas Back-End Project</h1>
-<p>This is an open project to learn about PHP, MVC and SQL</p>
+<p>This is a project to learn about PHP, MVC and SQL</p>
 
 <h2>Purposes</h2>
 
